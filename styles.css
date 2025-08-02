@@ -1,0 +1,54 @@
+.container{
+    width: 370px;
+    height:650px;
+    background:aliceblue;
+    border-radius: 50px;
+    margin-left: 20px;
+    
+    
+
+}
+img{
+    border-radius: 40px;
+    margin: 10px;
+}
+
+h1{
+    padding-left: 10px;
+}
+
+p{
+    padding-left: 15px;
+}
+
+.button{
+   text-align: center;
+   
+}
+
+.W{
+    padding-left: 10px;
+}
+
+.capsole span{
+   border:1px solid black;
+   margin: 5px;
+   padding: 2px;
+   border-radius: 5px;
+
+}
+.capsole{
+    padding: 15px;
+}
+
+#btn1{
+    border-radius: 20px;
+    padding: 5px;
+    background:rgb(121, 217, 255);
+    cursor: pointer;
+}
+
+.button btn1:hover{
+    background-color: azure;
+    color: aqua;
+}
